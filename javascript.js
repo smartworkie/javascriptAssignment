@@ -15,7 +15,7 @@ const isEven =(number) =>{
 }
 else{
     return false;
-}S
+}
 }
 
 //Test Case 
